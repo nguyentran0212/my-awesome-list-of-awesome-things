@@ -9,3 +9,4 @@ A random collection of things I found around the Internet that I found pretty co
 ## Misc
 
 - [Template for Academic Website](https://github.com/academicpages/academicpages.github.io?tab=readme-ov-file)
+- [Template for Academic Project Page](https://github.com/eliahuhorwitz/Academic-project-page-template)
